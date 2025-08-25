@@ -94,8 +94,8 @@ dmypy.json
 *.tflite
 
 # Dataset directories (typically not versioned)
-archive/
-dataset_filter/
+# archive/
+# dataset_filter/
 
 # OS generated files
 .DS_Store
